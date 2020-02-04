@@ -1,0 +1,3 @@
+/content/drive/My Drive/localisation/imagetest/camera1_2015-12-10_1211.jpg
+/content/drive/My Drive/localisation/imagetest/camera1_2015-11-25_1110.jpg
+/content/drive/My Drive/localisation/imagetest/camera6_2015-12-22_1252.jpg

@@ -1,0 +1,5 @@
+classes = 2
+train = /content/drive/My\ Drive/Entrainement/train.txt
+valid = /content/drive/My\ Drive/Entrainement/validation.txt
+names = /content/drive/My\ Drive/Entrainement/parking.names
+backup = /content/drive/My\ Drive/Entrainement/backup/
